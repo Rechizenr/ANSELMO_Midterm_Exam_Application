@@ -11,7 +11,7 @@ class ProductController extends Controller
         $products = [
             ['name' => 'Naruto Poster', 'price' => 300, 'category' => 'Merchandise'],
             ['name' => 'One Piece T-Shirt', 'price' => 800, 'category' => 'Clothing'],
-            ['name' => 'Attack on Titan Figuer', 'price' => 1500, 'category' => 'Action Figure'],
+            ['name' => 'Attack on Titan Figure', 'price' => 1500, 'category' => 'Action Figure'],
             ['name' => 'Demon Slayer Sword', 'price' => 2500, 'category' => 'Collectibles'],
             ['name' => 'Jujutsu Kaisen Keychain', 'price' => 300, 'category' => 'Accessories'],
         ];
